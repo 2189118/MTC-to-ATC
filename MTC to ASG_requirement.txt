@@ -1,0 +1,18 @@
+python-dateutil~=2.8.2
+pandas~=1.5.3
+pytz~=2022.7
+pydantic~=1.10.12
+chromadb~=0.5.3
+numpy~=1.25.0
+passlib~=1.7.4
+selenium~=4.21.0
+javalang~=0.13.0
+beautifulsoup4~=4.12.2
+seaborn~=0.12.2
+validators 0.22.0
+lxml~=4.9.2
+openai~=0.27.4
+langchain-community==0.2.5
+tree-sitter==0.20.4
+sentence-transformers==3.0.1
+langchain~=0.2.5
